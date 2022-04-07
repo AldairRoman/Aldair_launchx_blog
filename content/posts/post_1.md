@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje"
-date: 2022-03-01
+date: 2022-03-07
 description: 'Mi viaje por Innovaccion-LaunchX'
 ---
 Mi viaje dentro de LaunchX al inicio me sentí un poco desconcertado ya que aunque soy desarrollador aprendí aspectos de programación nuevos al usar los jupyters de phyton.
