@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy yo?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Ingeniero en computación.
+> Amante de la tecnología de los gráficos por computadora y de los videojuegos.
+> Profesor de computación gráfica en la Facultad de Ingeniería de la UNAM.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo 29 años, me encanta aprender nuevas tecnologías y mejorar cada día como profesionista y como persona.
 
